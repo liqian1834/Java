@@ -155,4 +155,8 @@ __Properties__
 [binary-wiki]: https://en.wikipedia.org/wiki/Binary_search_algorithm
 [binary-image]: https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 81feec3... rea
 
